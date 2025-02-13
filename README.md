@@ -30,11 +30,7 @@ Pandas: For data manipulation and cleaning.
 Matplotlib/Seaborn: For visualizing the data (e.g., trend graphs, bar charts, heatmaps).
 Reddit API: Used to collect data from Reddit using the PRAW (Python Reddit API Wrapper) library.
 Jupyter Notebook: For developing and running the analysis step-by-step.
-How to Run the Project
-Prerequisites:
 
-Install the necessary libraries:
-pip install pandas matplotlib seaborn praw
 Data Files:
 
 Ensure you have access to the climate change dataset and the mental health survey dataset.
